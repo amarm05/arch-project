@@ -35,6 +35,7 @@ logo_icon = ImageTk.PhotoImage(
     Image.open("icons/logo.png").resize((30, 30))
 )
 
+# Change here 
 percent_icon = ImageTk.PhotoImage(
     Image.open("icons/percent.png").resize((100, 100))
 )
